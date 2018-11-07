@@ -15,7 +15,7 @@
 //#include <cuda_gl_interop.h>
 #include <cuda_runtime.h>
 
-#define CUSTREAM_CNT		(8)
+#define CUSTREAM_CNT		(4)
 
 #define	 FILTER_REF_NUM		(3)
 
